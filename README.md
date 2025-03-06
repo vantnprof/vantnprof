@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🧑‍🔬 I am (Van) Tien Nguyen! Nice to meet you!
+- 🔭 I’m currently learning and doing research on Quantum Machine Learning.
+- 🤔 I’m looking for any help!
+- 📫 How to reach me: vantnprof@gmail.com
+
 <!--
 **vantnprof/vantnprof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
