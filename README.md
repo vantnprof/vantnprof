@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,100:0891B2&height=180&section=header&text=Van%20Tien%20Nguyen&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Quantum%20Machine%20Learning%20%C2%B7%20Tensor%20Methods&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Van Tien Nguyen — Quantum Machine Learning · Tensor Methods"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,100:0891B2&height=180&section=header&text=Van%20Tien%20Nguyen&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Quantum%20Machine%20Learning%20%C2%B7%20Hybrid%20Quantum-Classical%20ML&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Van Tien Nguyen — Quantum Machine Learning · Hybrid Quantum-Classical ML"/>
 
 **PhD Candidate, Electrical Engineering · [UT San Antonio](https://www.utsa.edu) · MILOS Lab**
 
@@ -17,7 +17,7 @@
 
 - 🔬 I build **hybrid quantum–classical models** that use **tensor and multilinear algebra** to stay compact and robust on NISQ hardware.
 - 🧠 Variational circuits · quantum reservoir computing · quantum continual learning · tensor decompositions · distributed quantum computing
-- 🎓 On the academic job market for **tenure-track faculty positions** (2026–27).
+- 💼 **Open to opportunities in 2026–27**: academic and industry roles in quantum computing and machine learning. [Let's talk!](mailto:vantn.prof@gmail.com)
 
 ### 📄 Selected work
 
