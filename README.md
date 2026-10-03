@@ -4,7 +4,8 @@
 
 **PhD Candidate, Electrical Engineering · [UT San Antonio](https://www.utsa.edu) · MILOS Lab**
 
-*Using tensor structure to make quantum and hybrid learning robust and parameter-efficient.*
+*Developing quantum methods for optimization and machine learning.*  
+*Improving the efficiency and predictive performance of hybrid quantum–classical learning.*
 
 <a href="https://vantnprof.github.io"><img src="https://img.shields.io/badge/Website-5B21B6?style=for-the-badge&logo=github&logoColor=white" alt="Website"/></a>
 <a href="https://orcid.org/0009-0000-8834-9415"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
