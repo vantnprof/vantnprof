@@ -17,7 +17,7 @@
 
 - 🔬 I build **hybrid quantum–classical models** that use **tensor and multilinear algebra** to stay compact and robust on NISQ hardware.
 - 🧠 Variational circuits · quantum reservoir computing · quantum continual learning · tensor decompositions · distributed quantum computing
-- 💼 **Open to opportunities in 2026–27**: academic and industry roles in quantum computing and machine learning. [Let's talk!](mailto:vantn.prof@gmail.com)
+- 💼 Seeking Summer 2027 internships and full-time research or engineering roles starting in Fall 2027. [Let's talk!](mailto:vantn.prof@gmail.com)
 
 ### 📄 Selected work
 
